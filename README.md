@@ -1,12 +1,4 @@
-## Simple Age Calculator app
+# Age-Simple-Calcuclator-App
 
-##### Screenshots
-
-<p float="left">
-  <img src="screenshots/one.png" width="200">
-</p>
-
-# Contribute
-Show your support by 🌟 the project!!
-
-Feel free to contribute!
+It calculates age and also has qualities of simple
+calculator.
